@@ -1,2 +1,2 @@
-# it18206142-my.sliit.lk
+# Noise Suppression Using Deep Learning
 Assignment2 – Machine Learning
